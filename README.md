@@ -2,7 +2,7 @@
 
 I'm Jose Manuel and I'm a passionate developer. I've been developing a project called [PiKISS](https://github.com/jmcerrejon/PiKISS) for a long time to make life easier for everyone if you use a *Raspberry Pi*. I'm making videos about the project on *Youtube* and I've been keeping a blog about the Pi and other boards for eight years called *misapuntesde.com*.
 
-I Love *PHP + Laravel* and *JavaScript*. *Go* is on the way. I consider myself as a *Backend and mobile dev*.
+I Love *PHP + Laravel* and *JavaScript*. *Rust* is on the way. I consider myself as a *Backend and mobile dev*.
 
 I let you with all my social networks if you want to contact with me 😊
 
