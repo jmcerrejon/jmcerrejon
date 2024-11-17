@@ -11,10 +11,12 @@ I consider myself as a *Fullstack Dev and Tech Leader, with some skills as a Pro
 ### Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
+![PHP](https://shields.io/badge/-PHP-3776AB?style=flat&logo=php)
+![LaraveL](https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
 ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
@@ -22,11 +24,13 @@ I consider myself as a *Fullstack Dev and Tech Leader, with some skills as a Pro
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
+
 ### My top projects
 
 * ***[PiKISS](https://github.com/jmcerrejon/PiKISS)*** ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/jmcerrejon/pikiss) - PiKISS For Raspberry Pi: A Bunch Of Scripts With Menu To Make Your Life Easier.
 * ***[Frodown](https://github.com/jmcerrejon/frodown)*** - Simple markdown editor with frontmatter support.
 * ***[PIKO](https://github.com/jmcerrejon/piko)*** - A new AI created from the collective mind of trillons of flies.
+* ***[Another FastAPI template](https://github.com/jmcerrejon/another-fastapi-template)*** - This is my custom template project for a simple FastAPI application.
 
 ### 🏆 GitHub Trophies
 
