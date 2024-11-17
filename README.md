@@ -27,7 +27,7 @@ I consider myself as a *Fullstack Dev and Tech Leader, with some skills as a Pro
 
 ### My top projects
 
-* ***[PiKISS](https://github.com/jmcerrejon/PiKISS)*** ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/jmcerrejon/pikiss) - PiKISS For Raspberry Pi: A Bunch Of Scripts With Menu To Make Your Life Easier.
+* ***[PiKISS](https://github.com/jmcerrejon/PiKISS)*** ![PiKISS stars](https://img.shields.io/github/stars/jmcerrejon/pikiss) - PiKISS For Raspberry Pi: A Bunch Of Scripts With Menu To Make Your Life Easier.
 * ***[Frodown](https://github.com/jmcerrejon/frodown)*** - Simple markdown editor with frontmatter support.
 * ***[PIKO](https://github.com/jmcerrejon/piko)*** - A new AI created from the collective mind of trillons of flies.
 * ***[Another FastAPI template](https://github.com/jmcerrejon/another-fastapi-template)*** - This is my custom template project for a simple FastAPI application.
